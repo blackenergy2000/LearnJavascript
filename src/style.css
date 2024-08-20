@@ -1,0 +1,15 @@
+html {
+    background-color: greenyellow;
+    font-family: "Times New Roman";
+    font-size: 20px;
+}
+
+ul {
+    background-color: darkred;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+li {
+    margin-left: 20px;
+}
